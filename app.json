@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "PhotoDiary",
+    "slug": "photo-diary",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "4cd2405e-ee1e-469a-b09e-52d1be856412"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4cd2405e-ee1e-469a-b09e-52d1be856412"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
